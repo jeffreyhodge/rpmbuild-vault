@@ -1,7 +1,7 @@
 %define debug_package %{nil}
 
 Name:           vault
-Version:        1.1.0
+Version:        1.2.3
 Release:        1%{dist}
 Summary:        A tool for managing secrets
 License:        Mozilla Public License 2.0
